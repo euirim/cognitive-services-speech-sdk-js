@@ -1,6 +1,6 @@
 {
-  "name": "microsoft-cognitiveservices-speech-sdk",
-  "author": "Microsoft Corporation",
+  "name": "@euirim/microsoft-cognitiveservices-speech-sdk",
+  "author": "Euirim Choi",
   "homepage": "https://docs.microsoft.com/azure/cognitive-services/speech-service/",
   "version": "1.8.0",
   "license": "MIT",
@@ -19,11 +19,11 @@
     "speechtotext"
   ],
   "bugs": {
-    "url": "https://github.com/Microsoft/cognitive-services-speech-sdk-js/issues"
+    "url": "https://github.com/euirim/cognitive-services-speech-sdk-js/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Microsoft/cognitive-services-speech-sdk-js"
+    "url": "https://github.com/euirim/cognitive-services-speech-sdk-js"
   },
   "browser": {
     "asn1.js-rfc2560": false,
